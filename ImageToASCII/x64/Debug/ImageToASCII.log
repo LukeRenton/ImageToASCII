@@ -1,0 +1,3 @@
+﻿  ImageToASCII.cpp
+C:\Users\luker\OneDrive\Documents\C++ school\Extra\ImageToASCII\ImageToASCII.cpp(21,34): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  ImageToASCII.vcxproj -> C:\Users\luker\OneDrive\Documents\C++ school\Extra\ImageToASCII\x64\Debug\ImageToASCII.exe
